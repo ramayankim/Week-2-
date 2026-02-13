@@ -1,5 +1,6 @@
 # Week-2 
-fullname = "Kim Ramayab"        
+
+fullname = "Kim Ramayan"        
 age = 25                   
 height = 1.65               
 working = False              
